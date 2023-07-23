@@ -148,6 +148,7 @@
     text-align: center;
     background: #f2f2f2;
     padding: 50px;
+    margin: 15px 0;
 }
 .email{
     width: 60%;
@@ -215,4 +216,7 @@
 }
 i{
     color: #5ea5fa;
+}
+i:hover{
+    color: white;
 }
