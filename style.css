@@ -22,10 +22,11 @@
 .headerMenu ul li a {
     text-decoration: none;
     color: #afa0a0;
-    padding: 80px 17px;
+    padding: 45px 17px;
     font-size: 18px;
     display: inline-block;
     text-transform: uppercase;
+    transition: .5s;
 }
 .headerMenu ul li:hover >a{
     color: white;
@@ -75,6 +76,7 @@
 }
 .headerMenu ul li ul li:hover > a{
     background: #4271d5;
+    padding-left: 50px;
 }
 .headerMenu ul li ul li:hover ul{
     display: block;
